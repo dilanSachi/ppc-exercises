@@ -105,7 +105,7 @@ void correlate(int ny, int nx, const float *data, float *result) {
                 __builtin_prefetch(&appended_data[k + j * nxb + 20]);
                 __builtin_prefetch(&appended_data[i * 4 * nxb + k + 20]);
                 
-                // double4_t sum_vec1;
+                // double4_t sum_vec1
                 // double4_t sum_vec1;
 
                 // double4_t vec1;
