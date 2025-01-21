@@ -4,7 +4,7 @@ The exericses can be found [here](https://ppc-exercises.cs.aalto.fi/course/hy202
 
 ## Current Status
 ### CP — correlated pairs
-- [x] CP1
+- [x] [CP1](/exercises/cp1/cp.cc)
 - [x] CP2a
 - [x] CP2b
 - [x] CP2c
