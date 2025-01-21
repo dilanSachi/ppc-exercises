@@ -5,11 +5,11 @@ The exericses can be found [here](https://ppc-exercises.cs.aalto.fi/course/hy202
 ## Current Status
 ### CP — correlated pairs
 - [x] [CP1](/exercises/cp1/cp.cc)
-- [x] CP2a
-- [x] CP2b
-- [x] CP2c
-- [x] CP3a - Can improve the logic more to utilize maximum CPU performance
-- [x] CP3b - Can improve the logic more to utilize maximum CPU performance
+- [x] [CP2a](/exercises/cp2a/cp.cc)
+- [x] [CP2b](/exercises/cp2b/cp.cc)
+- [x] [CP2c](/exercises/cp2c/cp.cc)
+- [x] [CP3a](/exercises/cp3a/cp2.cc) - Can improve the logic more to utilize maximum CPU performance
+- [x] [CP3b](/exercises/cp3b/cp.cc) - Can improve the logic more to utilize maximum CPU performance
 - [ ] CP4
 - [ ] CP5
 - [ ] CP9a
